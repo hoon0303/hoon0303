@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hoon Park
 Hi, I'm Hoon Park. I am a data engineer interested in solving business problems using various AI methodologies, such as deep learning, machine learning, and data mining.
 
 ### 💼 Projects

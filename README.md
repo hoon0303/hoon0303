@@ -10,10 +10,10 @@
 | **Health Checkup Guide**                                                                            | Industry-university cooperation foundation, Soonchunhyang University | Aug 2017 - Dec 2017      |
 
 ### 📚 Publications
-| **Title**                                                                            | **Journal** | **Link**                                                                                   |
-|--------------------------------------------------------------------------------------|-------------|-------------------------------------------------------------------------------------------|
-| **HeteLFX: Heterogeneous Recommendation with Latent Feature Extraction**             | ECRA        | [🔗](https://doi.org/10.1016/j.elerap.2024.101419)                                       |
-| **Latent Mutual Feature Extraction for Cross-domain Recommendation**                 | KAIS        | [🔗](https://doi.org/10.1007/s10115-024-02065-y)                                          |
+| **Title**                                                                            | **Journal**                                  | **Link**                                                                                   |
+|--------------------------------------------------------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------------|
+| **HeteLFX: Heterogeneous Recommendation with Latent Feature Extraction**             | Electronic Commerce Research and Applications | [🔗](https://doi.org/10.1016/j.elerap.2024.101419)                                       |
+| **Latent Mutual Feature Extraction for Cross-domain Recommendation**                 | Knowledge and Information Systems            | [🔗](https://doi.org/10.1007/s10115-024-02065-y)                                          |
 
 ### 📜 Patents
 | **Title**                                                                          | **Date**       | **Status**  | **Link**                        |

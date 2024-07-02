@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   - (Oct 2022 - Jan 2023)
 
 - **📊 Survey Recommender**
-  - Knowledge Engineering Lab
+  - Knowledge Engineering Lab, Chung-Ang University
   - (June 2022 - July 2022)
 
 - **🌸 Two-State Based Collaborative Filtering for Perfume Recommendation (MYFUME)**

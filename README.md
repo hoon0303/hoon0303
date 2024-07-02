@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   - Ministry of SMEs and Startups (MSS, Korea)
   - (May 2022 - May 2023)
 
-- **🌩AI-based Cloud Service (AlaaS) Technology for Anomaly Pattern Detection in Multi-data Streams**
+- **AI-based Cloud Service (AlaaS) Technology for Anomaly Pattern Detection in Multi-data Streams**
   - Ministry of Education
   - (Oct 2022 - Jan 2023)
 

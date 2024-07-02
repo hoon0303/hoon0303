@@ -15,23 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 💼 Projects
-- **🚀 Smart Tourism Platform Development with Meta-Path Embedding Recommendation System**
+- **Smart Tourism Platform Development with Meta-Path Embedding Recommendation System**
   - Ministry of SMEs and Startups (MSS, Korea)
   - (May 2022 - May 2023)
 
-- **🌩️ AI-based Cloud Service (AlaaS) Technology for Anomaly Pattern Detection in Multi-data Streams**
+- **🌩AI-based Cloud Service (AlaaS) Technology for Anomaly Pattern Detection in Multi-data Streams**
   - Ministry of Education
   - (Oct 2022 - Jan 2023)
 
-- **📊 Survey Recommender**
+- **Survey Recommender**
   - Knowledge Engineering Lab, Chung-Ang University
   - (June 2022 - July 2022)
 
-- **🌸 Two-State Based Collaborative Filtering for Perfume Recommendation (MYFUME)**
+- **Two-State Based Collaborative Filtering for Perfume Recommendation (MYFUME)**
   - Soonchunhyang University
   - (May 2020 - May 2021)
 
-- **🏥 Health Checkup Guide**
+- **Health Checkup Guide**
   - Industry-university cooperation foundation, Soonchunhyang University
   - (Aug 2017 - Dec 2017)
 

@@ -15,7 +15,7 @@ Hi, I'm Hoon Park. I am a data engineer/scientist interested in solving business
   | Smart Tourism Platform Development with Meta-Path Embedding Recommendation System | Ministry of SMEs and Startups (MSS, Korea) | May 2022 - May 2023 |
   | AI-based Cloud Service (AlaaS) Technology for Anomaly Pattern Detection in Multi-data Streams | Ministry of Education | Oct 2022 - Jan 2023 |
   | Survey Recommender | Knowledge Engineering Lab, Chung-Ang University | June 2022 - July 2022 |
-  | Two-State Based Collaborative Filtering for Perfume Recommendation (MYFUME) | Soonchunhyang University | May 2020 - May 2021 |
+  | Metainformation-Based Latent Knowledge Extraction for Perfume Recommendations (MYFUME) | Soonchunhyang University | May 2020 - May 2021 |
   | Health Checkup Guide | Industry-university cooperation foundation, Soonchunhyang University | Aug 2017 - Dec 2017 |
   | Pictogram | GameMakers [Unity Certified Club] | Aug 2017 - Dec 2017 |
 

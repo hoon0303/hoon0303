@@ -47,11 +47,13 @@ Hi, I'm Hoon Park. I am a data engineer/scientist interested in solving business
 <details>
   <summary>🏆 Awards</summary>
 
-  | **Award** | **Organization** | **Date** |
+  | **Award** | **Organization** | **Date** | **LeaderBoard** |
   | --- | --- | --- |
   | Binary Classification of Insurance Cross Selling (Playground Series S4E7) Top 1% | Kaggle | Aug 2024 |
   | LLM 20 Questions, Silver Medal | Kaggle | Sep 2024 |
   | Rohlik Orders Forecasting Challenge (Use historical data to predict customer orders) Top 7% | Kaggle | Dec 2024 |
+  | Inclusion・The Global Multimedia Deepfake Detection Top 10% | Kaggle | Aug 2024 |
+  | Binary Prediction of Poisonous Mushrooms Top 10% | Kaggle | Aug 2024 | [🔗]([https://doi.org/10.8080/1020200165235](https://www.kaggle.com/competitions/playground-series-s4e8/leaderboard)) |
 
 </details>
 

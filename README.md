@@ -1,6 +1,5 @@
 # Hoon Park
 <p>
-  <img src="./kaggle-badges/DiscussionsRank/plastic-white.svg" /><br>
   <a href="https://www.linkedin.com/in/hoon-park-707a39276" target="_blank"><img src="https://img.shields.io/badge/HoonPark-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:parkhoon0303@gmail.com" target="_blank"><img src="https://img.shields.io/badge/parkhoon0303@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 

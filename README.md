@@ -54,6 +54,7 @@ Hi, I'm Hoon Park. I am a data engineer/scientist interested in solving business
   | Rohlik Orders Forecasting Challenge (Use historical data to predict customer orders) Top 7% | Kaggle | Dec 2024 | [🔗](https://www.kaggle.com/competitions/rohlik-orders-forecasting-challenge/leaderboard) |
   | Inclusion・The Global Multimedia Deepfake Detection Top 10% | Kaggle | Aug 2024 | [🔗](https://www.kaggle.com/competitions/multi-ffdi/leaderboard) |
   | Binary Prediction of Poisonous Mushrooms Top 10% | Kaggle | Aug 2024 | [🔗](https://www.kaggle.com/competitions/playground-series-s4e8/leaderboard) |
+  | Loan Approval Prediction Top 2% | Kaggle | Nov 2024 | [🔗](https://www.kaggle.com/competitions/playground-series-s4e10/leaderboard) |
 
 </details>
 

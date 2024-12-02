@@ -38,7 +38,7 @@ Hi, I'm Hoon Park. I am a data engineer/scientist interested in solving business
   | **Title** | **Date** | **Status** | **Link** |
   | --- | --- | --- | --- |
   | Methods and devices for item recommendation using cross-domain information extraction | 12/2023 | Submitted | |
-  | APPARATUS, METHOD AND SYSTEM FOR CUSTOMIZED TRACK RECOMMENDATION | 04/2023 | Submitted | |
+  | APPARATUS, METHOD AND SYSTEM FOR CUSTOMIZED TRACK RECOMMENDATION | 10/2024 | KR 1020240156698 | [🔗](https://doi.org/10.8080/1020230053157) |
   | Smart cradle | 04/2023 | KR 1025189290000 | [🔗](https://doi.org/10.8080/1020200165235) |
   | Lost and found system | 12/2019 | KR 1020587950000 | [🔗](https://doi.org/10.8080/1020180072114) |
 

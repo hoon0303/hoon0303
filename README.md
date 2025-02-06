@@ -5,7 +5,7 @@
 
 </p>
 
-Hi, I'm Hoon Park. I am a data engineer/scientist interested in solving business problems using various AI methodologies, such as deep learning, machine learning, and data mining.
+Hi, I'm Hoon Park. I am a data analyst/scientist interested in solving business problems using various AI methodologies, such as deep learning, machine learning, and data mining.
 
 <details>
   <summary>💼 Projects</summary>

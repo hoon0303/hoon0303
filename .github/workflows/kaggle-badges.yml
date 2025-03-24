@@ -37,8 +37,11 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git stash
-          git pull --rebase origin main
+          
+          git diff --quiet || git stash
+          git pull --rebase origin main || echo "Rebase failed"
+          git stash list | grep -q . && git stash pop || echo "No stash to apply"
+          
           git add ./kaggle-badges/* ./kaggle-plates/*
           git commit -m "Add generated SVG files" || echo "No changes to commit"
           git push

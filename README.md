@@ -11,7 +11,7 @@ Hi, I'm Hoon Park. I am a data analyst/scientist interested in solving business 
   
   | **Project** | **Institution** | **Duration** |
   | --- | --- | --- |
-  | NIPA-Google ML Bootcamp Collaborative Practical Project | Korea Software Industry Association (KOSA) | Nov 2024 - Dec 2024 |
+  | NIPA-Google ML Collaborative Practical Project | Korea Software Industry Association (KOSA) | Nov 2024 - Dec 2024 |
   | AI Chatbot Enhanced with Gemma Fine-Tuning | Google Bootcamp (GDG) | Aug 2024 - Oct 2024 |
   | Smart Tourism Platform Development with Meta-Path Embedding Recommendation System | Ministry of SMEs and Startups (MSS, Korea) | May 2022 - May 2023 |
   | AI-based Cloud Service (AlaaS) Technology for Anomaly Pattern Detection in Multi-data Streams | Ministry of Education | Oct 2022 - Jan 2023 |
